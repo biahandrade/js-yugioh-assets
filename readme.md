@@ -7,3 +7,9 @@ conceitos abordados:
 - Armazenamento e gerenciamento de estado manual
 - Funções limpas
 - Organização de código
+
+
+Melhorias:
+
+- Incrementado media queries
+
